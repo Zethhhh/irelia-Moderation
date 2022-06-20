@@ -1,3 +1,0 @@
-require("./xxxxxx/xxxxxx.js")();
-
-
