@@ -1,0 +1,148 @@
+{
+  "prefix": ".",
+  "sunucu": "958423501625241605",
+  "qwe": "ODQ4Mjg0MTkzMjk2ODc1NTMx.G8ck1p.g8OmfyY6OaM1AuZePacol_IaJw6ttstnQ-L4Nc",
+  "mongoURI": "mongodb+srv://alimertay01:3075olgu3075@cluster0.yqff9.mongodb.net/?retryWrites=true&w=majority",
+  "botOwners": ["571409617620303881",""],
+  "botSesID": "985532976177741844",
+  "readyFooter": [
+  "Cücük ❤️ İrelia",
+  "Cücük ❤️ İrelia "
+  ],
+
+  "snc": {
+  "sncIsim": "Querencia"
+  },
+
+  "sayilar": [
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9"
+],
+
+  "sunucuayar": {
+      "welcomekanal":"985532965427752960",
+      "suphelikanal":"",
+      "commandslog":"",
+      "ruleskanal":"",
+      "join":"",
+      "leave":"",
+      "booster": "",
+      "publicParents":"",
+      "gchat": "",
+      "rollog":"",
+      "inviteLogChannel": "",
+      "yetkiliRoller": [""]
+
+  },
+
+  
+  "tag": {
+      "TaglıAlım":false,
+      "taglıTag": "Ϯ",
+      "tagsızTag": "Ϯ",
+      "kayıtlog":"",
+      "tagRol": "",
+      "tagLog": "",
+      "authority":""
+      },
+
+  "hammers": {
+      "jailHammer": [""],
+      "muteHammer": [""],
+      "banHammer": [""],
+      "voiceMuteHammer": [""],
+      "uyariHammer": [""]
+      
+      },
+      "Perms": {
+      "TransportAuth": [""]
+  },
+  "cezaliRoller": {
+      "jailRoles": "",
+      "muteRoles": "",
+      "karantinaRoles": "",
+      "supheli": ""
+      },
+    
+  "register": {
+      "ayrac": "|",
+      "erkek": [""],
+      "ekrek": [""],
+      "kız": [""],
+      "unregister": [""],
+      "botCommander": [""],
+      "yetkilialim": ""
+      },
+    
+  "yetki": {
+      "deneme": [""],
+      "botc": [""],
+      "vip": "",
+      "lovers":"",
+      "streamerd":[""],
+      "falcı":[""],
+      "streamer":""
+    },
+
+    "katılım": {
+        "cek":"",
+        "etk":""
+    },
+      "ilişki": {
+        "alone":"",
+        "lgbt":"",
+        "lovers":""
+    },
+  
+    "COLOR": {
+        "YELLOW":"",
+        "RED":"",
+        "BLUE":"",
+        "GREEN":"",
+        "PURPLE":""
+    },
+  
+    "takım": {
+        "trabzon":"",
+        "fener":"",
+        "galata":"",
+        "beşik":""
+    },
+  
+    "GAMEROLES": {
+        "CSGO":"",
+        "VALO":"",
+        "LOL":"",
+        "PUBGM":"",
+        "ZULA":"",
+        "GTA":"",
+        "ETS":"",
+        "MLB":"",
+        "PUBG":""
+    },  
+
+
+  "webHooks": {
+    "messageLog": { "id": "", "token": "" },
+    "voiceLog": { "id": "", "token": "" }
+    },  
+
+  "Reacts": {
+      "duztik": "",
+      "iptal":"",
+      "mavi": "",
+      "mute":"",
+      "warn":""
+    }
+
+
+
+}
